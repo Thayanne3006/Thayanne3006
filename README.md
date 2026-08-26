@@ -13,3 +13,10 @@
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="23px" align="top" /> Focando Neste Momento:</div>
 [![Focando Agora](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thayanne3006/Thayanne3006/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thayanne3006/Thayanne3006/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thayanne3006/Thayanne3006/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
