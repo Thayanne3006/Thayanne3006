@@ -5,7 +5,7 @@
 
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="23px" align="top" alt="Rocket Emoji"/> Principais Skills:</div>
-[![Principal Skills](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
+[![Principal Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="23px" align="top" /> Outros Conhecimentos:</div>
 [![Outros Conhecimentos](https://skillicons.dev/icons?i=html,css,js,java,python,react,mysql)](https://skillicons.dev)
