@@ -1,10 +1,10 @@
 ### Hey you there 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/joana_trindad/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanatrindade-/)
+)](https://www.instagram.com/victoriaax_0/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayanne-santos-4a8b58352-/)
 
 
-![Joanats GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joanats&show_icons=true&theme=dracula)
+
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="23px" align="top" alt="Rocket Emoji"/> Principais Skills:</div>
 [![Principal Skills](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
